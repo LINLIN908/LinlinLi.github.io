@@ -188,7 +188,7 @@ sections:
       postcode: 
       region: Quebec Province, Canada
      #street: Qingda 1st Road 16
-#    appointment_url: https://calendly.com
+    #appointment_url: https://calendly.com
     autolink: true
     contact_links:
 
