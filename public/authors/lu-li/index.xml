@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lu Li | Linlin Li 李 林 林</title>
+    <link>http://localhost:4321/authors/lu-li/</link>
+      <atom:link href="http://localhost:4321/authors/lu-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lu Li</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hub67ae54b8e49754f44f13e98b3a7b017_11046_512x512_fill_lanczos_center_3.png</url>
+      <title>Lu Li</title>
+      <link>http://localhost:4321/authors/lu-li/</link>
+    </image>
+    
+    <item>
+      <title>A scientometric analysis of technostress in education from 1991 to 2022</title>
+      <link>http://localhost:4321/publication/journal-article/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
