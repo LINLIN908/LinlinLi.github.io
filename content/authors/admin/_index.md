@@ -1,42 +1,40 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+title: "Linlin Li"
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-first_name: Shiung Wu
+  - course: "Ph.D. in Learning Sciences"
+    institution: McGill University
+    year: "2025–present"
+  - course: "MA in Education (Thesis-based)"
+    institution: Qingdao University
+    year: "2022–2025"
+  - course: BEng in Software Engineering
+    institution: Qingdao University
+    year: "2016–2020"
+first_name: Lin Lin
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Chien
-name_pronunciation: Chien Shiung Wu
+- AI for Computational Thinking
+- Machine Learning/Educational Data Mining
+last_name: Li
+name_pronunciation: null
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: McGill University
+  url: https://www.mcgill.ca
+role: "First-year Ph.D. student"
 skills:
 - items:
-  - description: ""
+  - description: ''
     icon: python
     icon_pack: fab
     name: Python
     percent: 80
-  - description: ""
-    icon: chart-line
+  - description: ''
+    icon: "chart-line"
     icon_pack: fas
     name: Data Science
     percent: 100
-  - description: ""
+  - description: ''
     icon: database
     icon_pack: fas
     name: SQL
@@ -45,18 +43,18 @@ skills:
 - color: '#eeac02'
   color_border: '#f0bf23'
   items:
-  - description: ""
-    icon: person-hiking
+  - description: ''
+    icon: "person-hiking"
     icon_pack: fas
     name: Hiking
     percent: 60
-  - description: ""
+  - description: ''
     icon: cat
     icon_pack: fas
     name: Cats
     percent: 100
-  - description: ""
-    icon: camera-retro
+  - description: ''
+    icon: "camera-retro"
     icon_pack: fas
     name: Photography
     percent: 80
@@ -67,29 +65,28 @@ social:
   link: /#contact
 - display:
     header: true
-  icon: twitter
+- icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
+  link: https://twitter.com/Linmumu908
+- icon: "graduation-cap"
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: "https://scholar.google.com.sg/citations?user=HpadQUIAAAAJ&hl=zh-CN"
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: uploads/LILINLINCV.pdf
+- icon: linkedin
+  icon_pack: fab
+  link: "https://www.linkedin.com/in/linlin-li-26311031b/"
 status:
   icon: ☕️
 superuser: true
-title: LINLIN LI
+bio: My research interests include Social robot–assisted learning, Teachers’ AI readiness,
+  Learning analytics/Text mining, Educational neuroscience.
 ---
+I am a first-year Ph.D. student in Learning Sciences at McGill University, supervised by [Dr. Maria Cutumisu](https://www.mcgill.ca/education/maria-cutumisu) in the [Assessment of Learning and Transfer (ALERT) Lab](https://sites.google.com/ualberta.ca/alertlab). I completed my Bachelor’s degree in Software Engineering at Qingdao University, China, where I later worked as a full-time university counselor at Student Affairs Department for two years. I then earned a Master’s degree in Education under the supervision of [Dr. Xinghua Wang](https://scholar.google.com.sg/citations?hl=zh-CN&user=IGn7oooAAAAJ&view_op=list_works&sortby=pubdate), also at Qingdao University.
+{style="text-align: justify;"}
 
-I am currently pursuing a Master of Philosophy (MPhil) in Education at Normal College, Qingdao University, advised by Professor Xinghua Wang. Prior to this, I worked as a full-time university counsellor at Student Affairs Department of Qingdao University. I obtained my bachelor's degree in Software Engineering, also from Qingdao University.
-
-My research focuses on the effectiveness of social robots in enhancing children's development across affective, behavioral, cognitive, and social domains. Furthermore, I delve into the benefits of information and communication technologies (ICT)-enhanced education, and the dark side of them (i.e., technostress). In addition, I use Functional Near-Infrared Spectroscopy (fNIRS) technology to explore the internal brain mechanisms underlying children's cognitive and affective development as they engage with artificial intelligence (AI).
+My doctoral research lies at the intersection of educational psychology and computer science, with a focus on leveraging recent advances in machine learning and educational data mining to enhance computational thinking and promote deeper learning outcomes. I am also interested in examining the effects of generative AI on education, particularly in the area of AI-driven personalized feedback. The overarching goal of 
+my research is to advance machine learning methods in educational research and to positively impact teaching, learning, and assessment across diverse educational contexts.
 {style="text-align: justify;"}
