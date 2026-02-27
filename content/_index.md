@@ -182,19 +182,20 @@ sections:
 - block: contact
   content:
     address:
-      city: Qingdao 266071
-      country: China
-      country_code: China
+      city: Montreal
+     # country: China
+     # country_code: China
       postcode: 
-      region: Shandong Province, China
-      street: Qingda 1st Road 16
+      region: Quebec Province, Canada
+     #street: Qingda 1st Road 16
 #    appointment_url: https://calendly.com
     autolink: true
     contact_links:
-    - icon: twitter
+
+    - icon: linkedin
       icon_pack: fab
-      link: https://twitter.com/Linmumu908
-      name: DM Me
+      link: https://www.linkedin.com/in/linlin-li-26311031b/
+      name: Let's connect!
     coordinates:
       latitude: "36.074410"
       longitude: "120.42"
