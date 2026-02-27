@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yaqian Xu | Linlin Li 李 林 林</title>
+    <link>http://localhost:4321/authors/yaqian-xu/</link>
+      <atom:link href="http://localhost:4321/authors/yaqian-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yaqian Xu</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 16 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hub67ae54b8e49754f44f13e98b3a7b017_11046_512x512_fill_lanczos_center_3.png</url>
+      <title>Yaqian Xu</title>
+      <link>http://localhost:4321/authors/yaqian-xu/</link>
+    </image>
+    
+    <item>
+      <title>Meta–analyzing the impacts of social robots for children’s language development Insights from two decades of research from 2003 to 2023</title>
+      <link>http://localhost:4321/publication/preprint/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/preprint/</guid>
+      <description>&lt;p&gt;Abstract:&lt;p align=&#34;justify&#34;&gt;Robotics technologies powered by artificial intelligence are revolutionizing language learning, particularly for children who are at critical stages of language development. With the increasingly prevalent use of social robots in children’s language acquisition, however, a comprehensive understanding of their effectiveness in this regard remains lacking. To address this gap, this study conducted a meta-analysis of 27 empirical publications spanning two decades from 2003 to 2023, involving 70 effect sizes and 1544 participants. The results revealed a moderate to large positive effect of social robots on children’s language learning, especially for the affective dimension in social robot-assisted language learning. The influence of social robots on language learning was moderated by demographical factors (regions and school levels), research designs (social robots’ roles, intervention duration, language skills, and language types), and social robot characteristics. For instance, social robots showed the largest effect on children from the East Asia &amp;amp; Pacific region. Older learners achieved higher cognitive outcomes than younger learners. Whereas, younger learners obtained greater affective outcomes than older learners. Moderately extended exposure to social robots could lead to increased effectiveness. Social robots were particularly useful for the improvement of speaking and mixed skill sets. Anthropomorphic robots demonstrated higher effect size than cartoon-like robots. The results of this study can contribute to child-robot interaction research and practice by informing the design of social robots and the development of pedagogy in supporting language learning for children.&lt;/p&gt;
+&lt;em&gt;Note.&lt;/em&gt; Under review&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
