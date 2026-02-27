@@ -197,9 +197,9 @@ sections:
       link: https://www.linkedin.com/in/linlin-li-26311031b/
       name: Let's connect!
     coordinates:
-      latitude: "36.074410"
-      longitude: "120.42"
-    email: linlinli908@outlook.com
+      latitude: "45.5060"
+      longitude: "-73.5806"
+    email: linlin.li2@mail.mcgill.ca
 
     title: Contact
   design:
